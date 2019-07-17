@@ -1,3 +1,8 @@
+---
+title: Wes Bos React Notes
+date: July 17, 2019
+---
+
 **page query:** is attached to page and generates query for that page to pull in data for that page
 ```
 export const query = graphql`
